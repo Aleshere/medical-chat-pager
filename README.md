@@ -2,15 +2,15 @@
 ## Based on a tutorial by Javascript Mastery
 
 # What I used
-> folder structuring for ease of scaling
-> single index.js to export multiple modules
-> BEM css naming 
-> auth login via cookies
-> props destructuring  
-> simultaneous terminals for client and server
-> nodemon for backend dev purposes
+> folder structuring for ease of scaling  
+> single index.js to export multiple modules  
+> BEM css naming  
+> auth login via cookies  
+> props destructuring   
+> simultaneous terminals for client and server  
+> nodemon for backend dev purposes  
 > logical AND assignments  
-> git terminal deployment via npm and bash
+> git terminal deployment via npm and bash  
 > markdown language to edit this Readme file  
       
 &nbsp;
